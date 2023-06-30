@@ -1,0 +1,9 @@
+.splide__slide img {
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+}
+
+.splide__slider{
+    background-color: aliceblue;
+}
